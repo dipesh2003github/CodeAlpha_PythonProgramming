@@ -1,0 +1,7 @@
+CODE ALPHA: 200 shares → ₹600000
+TCS: 10 shares → ₹2500
+AIRTEL: 50 shares → ₹9000
+RELIANCE: 100 shares → ₹280000
+HDFC: 150 shares → ₹45000
+
+Total Investment Value: ₹936500
